@@ -1,0 +1,65 @@
+		    University of British Columbia
+		    Department of Computer Science
+			       CPSC 261
+			 Winter 2020, Term 2
+
+			     Assignment 6
+				   
+Note: All instructors have been asked to remind students of the
+University's position on academic integrity:
+
+The academic enterprise is founded on honesty, civility, and
+integrity.  As members of this enterprise, all students are expected
+to know, understand, and follow the codes of conduct regarding
+academic integrity.  At the most basic level, this means submitting
+only original work done by you and acknowledging all sources of
+information or ideas and attributing them to others as required.  This
+also means you should not cheat, copy, or mislead others about what is
+your work.  Violations of academic integrity (i.e., misconduct) lead
+to the breakdown of the academic enterprise, and therefore serious
+consequences arise and harsh sanctions are imposed.  For example,
+incidences of plagiarism or cheating may result in a mark of zero on
+the assignment or exam and more serious consequences may apply if the
+matter is referred to the President’s Advisory Committee on Student
+Discipline.  Careful records are kept in order to monitor and prevent
+recurrences.
+
+By typing my/our name(s) and student number(s)s in the list below,
+I/we certify that the work in the attached assignment was performed
+ONLY BY ME/US except the parts that have been properly acknowledged in
+the assignment and below. In addition, we indicate that we are fully
+aware of the rules and consequences of plagiarism, as set forth by the
+Department of Computer Science and the University of British Columbia.
+
+When working in pairs, one of you will fill in this form with their
+personal information and then commit and push it to stash. The
+remaining person is to then pull the changes to their copy of the
+repo, add their personal information to the form and then commit and
+push the changes bacK to stash. Stash records who is responsible for
+the various commits, it is therefore very important that each of you
+submit this form from your own account.
+
+Adding the cover page is the last thing you are to do as part of the
+assignment submission process. If you make changes after submitting
+this file then you should make a minor change to the file, such as
+adding a comment in the Acknowledgement section and then resubmit the
+file. If working in pairs both of you must do this.
+
+
+STUDENT  1
+Name :		Ritam Singal
+St. No:		46530994
+CWL:			rsingal1
+Email:		ritamsingal@gmail.com
+
+
+STUDENT  2
+Name :		Harshil Rajesh Patel
+St. No:		35437326
+CWL:		hpatel04
+Email:		harshil11100195@gmail.com
+
+
+ACKNOWLEDGMENTS :
+- We used paired-programming using VSCode LiveShare to complete this lab. 
+(Most commits made by only one partner but both partners worked on the lab).
